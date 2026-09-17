@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+TestResults/
+artifacts/
+.nuget-cache/
+.sandbox-build/
+.sandbox-run/
+.packaging-tools/

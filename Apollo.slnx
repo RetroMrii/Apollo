@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Apollo.App/Apollo.App.csproj" />
+    <Project Path="src/Apollo.Core/Apollo.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Apollo.App.Tests/Apollo.App.Tests.csproj" />
+    <Project Path="tests/Apollo.Core.Tests/Apollo.Core.Tests.csproj" />
+  </Folder>
+</Solution>
