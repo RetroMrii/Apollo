@@ -21,6 +21,10 @@ dotnet build Apollo.slnx
 
 This produces a self-contained Windows x64 portable archive and, when Inno Setup 7 is installed, a non-admin per-user installer under `artifacts`. Package checksums are written to `artifacts\SHA256SUMS.txt`.
 
+## License
+
+Apollo is available under the [MIT License](LICENSE).
+
 ## Project structure
 
 - `src/Apollo.App` — WPF composition root and desktop UI.
